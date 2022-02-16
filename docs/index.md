@@ -1,4 +1,3 @@
-
 ---
 title: Welcome!
 categories: [ASP.NET Core, C#]
